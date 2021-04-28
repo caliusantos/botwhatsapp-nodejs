@@ -13,12 +13,12 @@
 
 ## Quando o módulo for baixado com sucesso deverá ir ao site https://www.npmjs.com/package/wbm e copiar o código da imagem abaixo:
 
-##![image](https://user-images.githubusercontent.com/74366113/116444918-a7f76300-a82b-11eb-8857-dccd26909c6b.png)
+## ![image](https://user-images.githubusercontent.com/74366113/116444918-a7f76300-a82b-11eb-8857-dccd26909c6b.png)
 
 ## logo após copiar o código, colar ele no index.js.
 
 ## ir no cmd e depois colocar node index.js 
-##![image](https://user-images.githubusercontent.com/74366113/116445402-3b309880-a82c-11eb-9bc2-1ded63fda0da.png)
+## ![image](https://user-images.githubusercontent.com/74366113/116445402-3b309880-a82c-11eb-9bc2-1ded63fda0da.png)
 
 ## EM seguida tem que ir no whatsapp-web do aparelho celular e escanear de forma rápida o QRCODE que ele irá abrirá e assim enviará as mensagens para os contatos do whatsapp-web
 
